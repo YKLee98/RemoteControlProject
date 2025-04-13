@@ -1,0 +1,8 @@
+{
+  "ExcelFilePath": "C:\\Files\\CriticalData.xlsx",
+  "RemotePort": 9000,
+  "TlsEnabled": true,
+  "CertificatePath": "certs\\server_cert.pfx",
+  "CertificatePassword": "YourSecurePassword123!",
+  "AuthenticationKey": "PreSharedAuthenticationKeyForClients"
+}
